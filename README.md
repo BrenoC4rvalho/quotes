@@ -23,11 +23,11 @@ O projeto consiste numa lista de citações. O projeto tem tanto o frontend, qua
 
 ## Sobre API
 
-# get: /api -> pega todas as citações
-# post: /api -> cria uma nova citação, necessário mandar txt e author no body
-# get: /api/:id -> pega uma uńica citação
-# put: /api/:id -> edita uma citação, necessário mandar txt e/ou author no body
-# delete: /api/:id -> deleta uma citação
+* get: /api -> pega todas as citações
+* post: /api -> cria uma nova citação, necessário mandar txt e author no body
+* get: /api/:id -> pega uma uńica citação
+* put: /api/:id -> edita uma citação, necessário mandar txt e/ou author no body
+* delete: /api/:id -> deleta uma citação
 
 ## `npm install`
 
